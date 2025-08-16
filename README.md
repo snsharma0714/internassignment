@@ -96,10 +96,13 @@ See `backend/sample_stocks.csv` for mock stock data.
 ## Screenshots  
 
 ### Home Page  
-![Home Page](screenshots/Screenshot 2025-08-16 122044.png)  
+![Home Page](screenshots/Screenshot%202025-08-16%20122044.png)  
 
-### Dashboard  
-![Dashboard](screenshots/app_dashboard.png)  
+### Dashboard View  
+![Dashboard](screenshots/Screenshot%202025-08-16%20122029.png)  
+
+### Another Feature  
+![Dashboard](screenshots/Screenshot%202025-08-16%20121828.png)  
 
 
 ## License
