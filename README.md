@@ -96,7 +96,7 @@ See `backend/sample_stocks.csv` for mock stock data.
 ## Screenshots  
 
 ### Home Page  
-![Home Page]screenshots/Screenshot 2025-08-16 122044.png)  
+![Home Page](screenshots/Screenshot 2025-08-16 122044.png)  
 
 ### Dashboard  
 ![Dashboard](screenshots/app_dashboard.png)  
